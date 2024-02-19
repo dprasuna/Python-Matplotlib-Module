@@ -35,18 +35,7 @@ Matplotlib is not a part of the Standard Libraries which is installed by default
 
 ---
 
-## Table of contents 📋
 
-| **No.** | **Name** | 
-| ------- | -------- | 
-| 01 | **[Python_Matplotlib_pyplot](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/001_Python_Matplotlib_pyplot.ipynb)** |
-| 02 | **[Python_Matplotlib_Exercise_1](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/002_Python_Matplotlib_Exercise_1.ipynb)** |
-| 03 | **[Python_Matplotlib_Exercise_2](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/003_Python_Matplotlib_Exercise_2.ipynb)** |
-|    | **[gas_prices](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/gas_prices.csv)** |
-|    | **[fifa_data](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/fifa_data.csv)** |
-|    | **[company_sales_data](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/company_sales_data.csv)** |
-|    | **[iris_data](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/iris_data.csv)** |
-| 04 | **[Matplotlib Cheat Sheet Plotting in Python.pdf](https://github.com/milaan9/11_Python_Matplotlib_Module/blob/main/Matplotlib%20Cheat%20Sheet%20Plotting%20in%20Python.pdf)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/11_Python_Matplotlib_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
